@@ -1,0 +1,1 @@
+The app provides a form that allows users to enter a URL to get its shortened version. The app persists the an entry with the original URL and its shortened version. Therefore, the app is able to redirect a shortened URL to its original address. The following screen recording demonstrates the features to be implemented.
